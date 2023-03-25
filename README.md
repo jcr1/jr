@@ -1,1 +1,1 @@
-# jryu.github.io
+# jr.github.io
